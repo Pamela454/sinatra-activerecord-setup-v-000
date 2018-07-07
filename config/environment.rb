@@ -8,5 +8,4 @@ configure :development do  #sets up a connection to the database
 end
 
 require './app'
-require './config/environment'
-require 'sinatra/activerecord/rake'
+
